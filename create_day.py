@@ -30,7 +30,6 @@ def create_day_folder(base_path: str = "."):
 
 def generate_script_code(part_name: str) -> str:
     return f"""\
-
 import os
 
 def read_data(file_name="Data.txt"):

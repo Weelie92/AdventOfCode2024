@@ -1,4 +1,3 @@
-
 import os
 
 def read_data(file_name="Data.txt"):
